@@ -13,7 +13,7 @@ It consolidates scientific papers, preprints, and public records to ensure **per
 If you use or reference this work, please cite as:
 
 Paulino, G. (2025). *Black Belt OS™ — The Universal Law of Human Organization: Structure, Falsifiability, and Applications*.  
-DOI: [https://doi.org/10.5281/zenodo.17047585](https://doi.org/10.5281/zenodo.17047585)
+DOI: [https://doi.org/10.5281/zenodo.17047585](https://doi.org/10.5281/zenodo.17049248)
 
 ---
 © 2025 Gustavo Paulino. Licensed under **Creative Commons Attribution (CC BY 4.0)**.
