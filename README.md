@@ -1,7 +1,5 @@
 # Black Belt OS™ Publications (Game Over!🙂‍↕️🤙🏻)
 
-# Black Belt OS™ Publications
-
 This repository serves as the public archive of official publications of the **Black Belt OS™ project**.  
 It consolidates scientific papers, preprints, and public records to ensure permanence, accessibility, and timestamping.
 
