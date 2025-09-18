@@ -9,7 +9,7 @@ It consolidates scientific papers, preprints, and public records to ensure perma
 
 | Nº | Title | Keywords | DOI |
 |----|-------|----------|-----|
-| 1 | [The Black Belt OS: Toward a Universal Structural Law of Human Organization](papers/bb-os-article-01-macro-en.pdf) | Black Belt OS, organizational law, organizational theory, universality, collective life, management studies | [pending] |
+| 1 | [The Black Belt OS: Toward a Universal Structural Law of Human Organization](Collectanea/bb-os-article-01-macro-en.pdf) | Black Belt OS, organizational law, organizational theory, universality, collective life, management studies | [pending] |
 | 2 | [The Microstructure of Organizational Law: Irreducible Steps and Actions within the Nine Processes](papers/bb-os-article-02-micro-en.pdf) | Black Belt OS, organizational microstructure, irreducibility, structural processes, organizational theory, systems thinking | [pending] |
 | 3 | [Mapping the Grammar of Organization: A Supracontextual Specification of the Nine Processes](papers/bb-os-article-03-grammar-en.pdf) | Black Belt OS, organizational grammar, supracontextual law, universality, collective order, sociology of organizations | [pending] |
 | 4 | [Implementation – Installing Order: The Supracontextual Logic of Implementation in Collective Life](papers/bb-os-article-04-implementation-en.pdf) | Black Belt OS, implementation, organizational order, collective life, structural law, management theory | [pending] |
