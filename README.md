@@ -42,7 +42,7 @@ The sequence follows a structural logic:
 
 If you use or reference this work, please cite as:
 
-> Paulino, G. (2025). *Black Belt OS™ — The Universal Law of Human Organization: Structure, Falsifiability, and Applications.* Zenodo. https://doi.org/10.5281/zenodo.XXXX  
+> Paulino, G. (2025). *Black Belt OS™ — The Universal Law of Human Organization: Structure, Falsifiability, and Applications.* Zenodo. https://doi.org/10.5281/zenodo.17153458
 
 *(Replace DOI with the official Zenodo record once released.)*
 
